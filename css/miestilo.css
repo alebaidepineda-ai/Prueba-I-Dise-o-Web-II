@@ -1,0 +1,48 @@
+body{
+    background-color: beige;
+}
+
+.fondo{
+    background: url("../img/fondo.jpg") top center;
+    background-size: cover;
+    position: center;
+    height: 500px;
+}
+
+.texto-blanco{
+    color: white;
+}
+
+.espacio{
+    padding-top: 200px;
+    padding-bottom: 100px;
+}
+
+.gris-claro{
+    background-color: rgb(240, 240, 240);
+}
+
+.icono{
+    font-size: 50px;
+    color: rgb(0, 93, 199);
+}
+
+.espacio2{
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+footer{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.margen{
+    margin-left: 1px;
+}
+
+.icono2{
+    font-size: 30px;
+    color: rgb(0, 93, 199);
+    margin-left: 10px;
+}
